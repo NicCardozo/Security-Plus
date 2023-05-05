@@ -1,9 +1,9 @@
 {
-    "prefix": "",
-    "botname": "",
+    "prefix": "-",
+    "botname": "Test",
     "support": "https://discord.gg/",
     "ghostping":  true,
-    "ownerId": "",
+    "ownerId": "process.env.ownerID",
     "ignore": [
         ""
     ],
